@@ -26,7 +26,7 @@ View the optimal layout for the site depending on their device's screen size
 
 ### Screenshot
 
-![](/images/screenshot.png)
+![](/design/desktop-preview.jpg)
 
 ### Links
 
